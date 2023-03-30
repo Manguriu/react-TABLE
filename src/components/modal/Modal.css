@@ -72,3 +72,11 @@
     font-family: arial , sans-serif;
     
   }
+
+  .error {
+    background-color:#f8d7da;
+    color:black;
+    padding:0.5rem;
+    border-radius:0.3rem;
+    margin-bottom:1rem;
+  }
